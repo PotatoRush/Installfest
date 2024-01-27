@@ -355,7 +355,7 @@ eval "$(ssh-agent -s)"
 Now enter the following command into your terminal:
 
 ```sh
-ssh-add ~/.ssh/id_rsa.pub
+ssh-add ~/.ssh/id_rsa
 ```
 
 Now let's install `xclip`. `xclip` is used so that we can copy items into our clipboard. Enter the following command into your terminal:
